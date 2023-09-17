@@ -1,7 +1,7 @@
 [
   "cmenu-plugin",
   "editing-toolbar",
-  "obsidian-icon-folder",
   "obsidian-plantuml",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-icon-folder"
 ]

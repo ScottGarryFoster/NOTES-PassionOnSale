@@ -5,7 +5,9 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FasFile"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -15,5 +17,6 @@
       "left": 0
     },
     "iconInTabsEnabled": false
-  }
+  },
+  "1. Documentation/LinkedFiles": "FasFile"
 }
