@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Video Review/1. Videos Out of Time/5 Tools for Software Engineering - Review.md",
+                "file": "2. Processes/e. Publish and Promotion/Promotion.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Video Review/1. Videos Out of Time/5 Tools for Software Engineering - Review.md",
+                "file": "2. Processes/e. Publish and Promotion/Promotion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Video Review/1. Videos Out of Time/5 Tools for Software Engineering - Review.md",
+                "file": "2. Processes/e. Publish and Promotion/Promotion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Video Review/1. Videos Out of Time/5 Tools for Software Engineering - Review.md"
+                "file": "2. Processes/e. Publish and Promotion/Promotion.md"
               }
             }
           }
@@ -163,8 +163,9 @@
   "lastOpenFiles": [
     "3. Video Review/2. Prototype Project/Placeholder.md",
     "3. Video Review/1. Videos Out of Time/5 Tools for Software Engineering - Review.md",
-    "2. Processes/a. Idea and Planning/Overview.md",
+    "2. Processes/e. Publish and Promotion/Promotion.md",
     "2. Processes/d. Error Correction/Process.md",
+    "2. Processes/a. Idea and Planning/Overview.md",
     "3. Video Review/2. Prototype Project",
     "3. Video Review/1. Videos Out of Time",
     "3. Video Review",
